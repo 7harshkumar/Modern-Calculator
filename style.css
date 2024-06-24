@@ -33,7 +33,7 @@
     overflow: none;
     width: 100%;
     text-align: end;
-    color: #5166d6;
+    color: #393b48;
     height: 100px;
     line-height: 100px;
     box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.1), inset -5px -5px 20px #fff;
@@ -109,11 +109,11 @@
   }
   
   .dark {
-    background: #47289d;
+    background: radial-gradient(circle, #5128d7 0%, #ad4949 100%);
   }
   
   .dark .calculator {
-    background: #33393e;
+    background: #2d6998;
     box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.25),
       -15px -15px 20px rgba(255, 255, 255, 0.1);
   }
